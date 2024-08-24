@@ -1,12 +1,14 @@
-#对陈硕的muduo库的简易版本实现， 使用 c++11， 去除Boost依赖
+### 对陈硕的muduo库的简易版本实现， 使用 c++11， 去除Boost依赖
 
-#编译方法
-# cd bin
-# rm *
-# cd ../build
-# rm * -rf
-# cd ../lib
-# rm *
-# cd build
-# cmake ..
-# make
+# 简要说明
+与原版muduo库相比
+
+
+    移除了boost库，使用c++11标准库代替。
+
+    只用了epoll实现主要功能。
+
+    线程，锁等使用了C++11标准库提供的组件，代码更精简。
+
+
+
