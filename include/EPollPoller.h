@@ -12,7 +12,6 @@
 #include<vector>
 #include<sys/epoll.h>
 
-
 class EPollPoller : public Poller{
 
 public:

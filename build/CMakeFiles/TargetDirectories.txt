@@ -1,0 +1,15 @@
+/home/mywork/TinyMuduo/build/CMakeFiles/TinyMuduo.dir
+/home/mywork/TinyMuduo/build/CMakeFiles/edit_cache.dir
+/home/mywork/TinyMuduo/build/CMakeFiles/rebuild_cache.dir
+/home/mywork/TinyMuduo/build/CMakeFiles/list_install_components.dir
+/home/mywork/TinyMuduo/build/CMakeFiles/install.dir
+/home/mywork/TinyMuduo/build/CMakeFiles/install/local.dir
+/home/mywork/TinyMuduo/build/CMakeFiles/install/strip.dir
+/home/mywork/TinyMuduo/build/test/CMakeFiles/echoserver.dir
+/home/mywork/TinyMuduo/build/test/CMakeFiles/bench.dir
+/home/mywork/TinyMuduo/build/test/CMakeFiles/edit_cache.dir
+/home/mywork/TinyMuduo/build/test/CMakeFiles/rebuild_cache.dir
+/home/mywork/TinyMuduo/build/test/CMakeFiles/list_install_components.dir
+/home/mywork/TinyMuduo/build/test/CMakeFiles/install.dir
+/home/mywork/TinyMuduo/build/test/CMakeFiles/install/local.dir
+/home/mywork/TinyMuduo/build/test/CMakeFiles/install/strip.dir

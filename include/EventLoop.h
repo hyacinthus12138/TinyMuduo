@@ -16,7 +16,6 @@ eventloop 通知 channel 调用 callback 处理对应事件
 #include "CurrentThread.h"
 #include"noncopyable.h"
 
-
 class Channel;
 class Poller;
 
