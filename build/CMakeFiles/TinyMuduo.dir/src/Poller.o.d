@@ -1,8 +1,9 @@
 CMakeFiles/TinyMuduo.dir/src/Poller.o: \
- /home/mywork/TinyMuduo/src/Poller.cpp /usr/include/stdc-predef.h \
- /home/mywork/TinyMuduo/include/Poller.h \
- /home/mywork/TinyMuduo/include/noncopyable.h \
- /home/mywork/TinyMuduo/include/Timestamp.h /usr/include/c++/11/iostream \
+ /home/mywork/mywork/TinyMuduo/src/Poller.cpp /usr/include/stdc-predef.h \
+ /home/mywork/mywork/TinyMuduo/include/Poller.h \
+ /home/mywork/mywork/TinyMuduo/include/noncopyable.h \
+ /home/mywork/mywork/TinyMuduo/include/Timestamp.h \
+ /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -159,8 +160,8 @@ CMakeFiles/TinyMuduo.dir/src/Poller.o: \
  /usr/include/c++/11/bits/enable_special_members.h \
  /usr/include/c++/11/bits/unordered_map.h \
  /usr/include/c++/11/bits/erase_if.h \
- /home/mywork/TinyMuduo/include/Channel.h /usr/include/c++/11/functional \
- /usr/include/c++/11/bits/refwrap.h \
+ /home/mywork/mywork/TinyMuduo/include/Channel.h \
+ /usr/include/c++/11/functional /usr/include/c++/11/bits/refwrap.h \
  /usr/include/c++/11/bits/std_function.h /usr/include/c++/11/memory \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \

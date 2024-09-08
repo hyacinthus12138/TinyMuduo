@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mywork/TinyMuduo
+CMAKE_SOURCE_DIR = /home/mywork/mywork/TinyMuduo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mywork/TinyMuduo/build
+CMAKE_BINARY_DIR = /home/mywork/mywork/TinyMuduo/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,14 +132,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/mywork/TinyMuduo/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/mywork/TinyMuduo/build/CMakeFiles /home/mywork/TinyMuduo/build/test//CMakeFiles/progress.marks
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/mywork/TinyMuduo/build/CMakeFiles 0
+	cd /home/mywork/mywork/TinyMuduo/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/mywork/mywork/TinyMuduo/build/CMakeFiles /home/mywork/mywork/TinyMuduo/build/test//CMakeFiles/progress.marks
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/mywork/mywork/TinyMuduo/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/clean
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/clean
 .PHONY : clean
 
 # The main clean target
@@ -148,22 +148,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/preinstall
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/preinstall
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/mywork/TinyMuduo/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/mywork/mywork/TinyMuduo/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 test/CMakeFiles/echoserver.dir/rule:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/echoserver.dir/rule
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/echoserver.dir/rule
 .PHONY : test/CMakeFiles/echoserver.dir/rule
 
 # Convenience name for target.
@@ -172,12 +172,12 @@ echoserver: test/CMakeFiles/echoserver.dir/rule
 
 # fast build rule for target.
 echoserver/fast:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/echoserver.dir/build.make test/CMakeFiles/echoserver.dir/build
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/echoserver.dir/build.make test/CMakeFiles/echoserver.dir/build
 .PHONY : echoserver/fast
 
 # Convenience name for target.
 test/CMakeFiles/bench.dir/rule:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/bench.dir/rule
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/bench.dir/rule
 .PHONY : test/CMakeFiles/bench.dir/rule
 
 # Convenience name for target.
@@ -186,37 +186,37 @@ bench: test/CMakeFiles/bench.dir/rule
 
 # fast build rule for target.
 bench/fast:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/bench.dir/build.make test/CMakeFiles/bench.dir/build
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/bench.dir/build.make test/CMakeFiles/bench.dir/build
 .PHONY : bench/fast
 
 # target to build an object file
 bench.o:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/bench.dir/build.make test/CMakeFiles/bench.dir/bench.o
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/bench.dir/build.make test/CMakeFiles/bench.dir/bench.o
 .PHONY : bench.o
 
 # target to preprocess a source file
 bench.i:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/bench.dir/build.make test/CMakeFiles/bench.dir/bench.i
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/bench.dir/build.make test/CMakeFiles/bench.dir/bench.i
 .PHONY : bench.i
 
 # target to generate assembly for a file
 bench.s:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/bench.dir/build.make test/CMakeFiles/bench.dir/bench.s
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/bench.dir/build.make test/CMakeFiles/bench.dir/bench.s
 .PHONY : bench.s
 
 # target to build an object file
 echoserver.o:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/echoserver.dir/build.make test/CMakeFiles/echoserver.dir/echoserver.o
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/echoserver.dir/build.make test/CMakeFiles/echoserver.dir/echoserver.o
 .PHONY : echoserver.o
 
 # target to preprocess a source file
 echoserver.i:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/echoserver.dir/build.make test/CMakeFiles/echoserver.dir/echoserver.i
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/echoserver.dir/build.make test/CMakeFiles/echoserver.dir/echoserver.i
 .PHONY : echoserver.i
 
 # target to generate assembly for a file
 echoserver.s:
-	cd /home/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/echoserver.dir/build.make test/CMakeFiles/echoserver.dir/echoserver.s
+	cd /home/mywork/mywork/TinyMuduo/build && $(MAKE) $(MAKESILENT) -f test/CMakeFiles/echoserver.dir/build.make test/CMakeFiles/echoserver.dir/echoserver.s
 .PHONY : echoserver.s
 
 # Help Target
@@ -250,6 +250,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/mywork/TinyMuduo/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/mywork/mywork/TinyMuduo/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

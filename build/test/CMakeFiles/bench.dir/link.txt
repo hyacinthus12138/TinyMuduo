@@ -1,1 +1,1 @@
-/usr/bin/c++  -g -std=c++11 -g -rdynamic CMakeFiles/bench.dir/bench.o -o ../../bin/bench   -L/home/mywork/TinyMuduo/lib  -Wl,-rpath,/home/mywork/TinyMuduo/lib ../../lib/libTinyMuduo.so 
+/usr/bin/c++  -g -std=c++11 -g -rdynamic CMakeFiles/bench.dir/bench.o -o ../../bin/bench   -L/home/mywork/mywork/TinyMuduo/lib  -Wl,-rpath,/home/mywork/mywork/TinyMuduo/lib ../../lib/libTinyMuduo.so 

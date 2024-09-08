@@ -1,7 +1,7 @@
 CMakeFiles/TinyMuduo.dir/src/Buffer.o: \
- /home/mywork/TinyMuduo/src/Buffer.cpp /usr/include/stdc-predef.h \
- /home/mywork/TinyMuduo/include/Buffer.h /usr/include/c++/11/vector \
- /usr/include/c++/11/bits/stl_algobase.h \
+ /home/mywork/mywork/TinyMuduo/src/Buffer.cpp /usr/include/stdc-predef.h \
+ /home/mywork/mywork/TinyMuduo/include/Buffer.h \
+ /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \

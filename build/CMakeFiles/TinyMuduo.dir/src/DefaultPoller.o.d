@@ -1,8 +1,10 @@
 CMakeFiles/TinyMuduo.dir/src/DefaultPoller.o: \
- /home/mywork/TinyMuduo/src/DefaultPoller.cpp /usr/include/stdc-predef.h \
- /home/mywork/TinyMuduo/include/Poller.h \
- /home/mywork/TinyMuduo/include/noncopyable.h \
- /home/mywork/TinyMuduo/include/Timestamp.h /usr/include/c++/11/iostream \
+ /home/mywork/mywork/TinyMuduo/src/DefaultPoller.cpp \
+ /usr/include/stdc-predef.h \
+ /home/mywork/mywork/TinyMuduo/include/Poller.h \
+ /home/mywork/mywork/TinyMuduo/include/noncopyable.h \
+ /home/mywork/mywork/TinyMuduo/include/Timestamp.h \
+ /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -159,6 +161,6 @@ CMakeFiles/TinyMuduo.dir/src/DefaultPoller.o: \
  /usr/include/c++/11/bits/enable_special_members.h \
  /usr/include/c++/11/bits/unordered_map.h \
  /usr/include/c++/11/bits/erase_if.h \
- /home/mywork/TinyMuduo/include/EPollPoller.h \
+ /home/mywork/mywork/TinyMuduo/include/EPollPoller.h \
  /usr/include/x86_64-linux-gnu/sys/epoll.h \
  /usr/include/x86_64-linux-gnu/bits/epoll.h /usr/include/c++/11/stdlib.h

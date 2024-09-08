@@ -1,8 +1,9 @@
 CMakeFiles/TinyMuduo.dir/src/Socket.o: \
- /home/mywork/TinyMuduo/src/Socket.cpp /usr/include/stdc-predef.h \
- /home/mywork/TinyMuduo/include/Socket.h \
- /home/mywork/TinyMuduo/include/noncopyable.h \
- /home/mywork/TinyMuduo/include/Logger.h /usr/include/c++/11/string \
+ /home/mywork/mywork/TinyMuduo/src/Socket.cpp /usr/include/stdc-predef.h \
+ /home/mywork/mywork/TinyMuduo/include/Socket.h \
+ /home/mywork/mywork/TinyMuduo/include/noncopyable.h \
+ /home/mywork/mywork/TinyMuduo/include/Logger.h \
+ /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -128,8 +129,8 @@ CMakeFiles/TinyMuduo.dir/src/Socket.o: \
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/mywork/TinyMuduo/include/InetAddress.h /usr/include/netinet/in.h \
- /usr/include/x86_64-linux-gnu/sys/socket.h \
+ /home/mywork/mywork/TinyMuduo/include/InetAddress.h \
+ /usr/include/netinet/in.h /usr/include/x86_64-linux-gnu/sys/socket.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
  /usr/include/x86_64-linux-gnu/bits/socket.h \
  /usr/include/x86_64-linux-gnu/bits/socket_type.h \

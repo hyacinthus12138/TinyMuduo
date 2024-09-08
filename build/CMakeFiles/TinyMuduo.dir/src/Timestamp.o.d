@@ -1,6 +1,6 @@
 CMakeFiles/TinyMuduo.dir/src/Timestamp.o: \
- /home/mywork/TinyMuduo/src/Timestamp.cpp /usr/include/stdc-predef.h \
- /usr/include/time.h /usr/include/features.h \
+ /home/mywork/mywork/TinyMuduo/src/Timestamp.cpp \
+ /usr/include/stdc-predef.h /usr/include/time.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/timesize.h \
@@ -146,4 +146,4 @@ CMakeFiles/TinyMuduo.dir/src/Timestamp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/mywork/TinyMuduo/include/Timestamp.h
+ /home/mywork/mywork/TinyMuduo/include/Timestamp.h

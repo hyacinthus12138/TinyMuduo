@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DTinyMuduo_EXPORTS
 
-CXX_INCLUDES = -I/home/mywork/TinyMuduo/include
+CXX_INCLUDES = -I/home/mywork/mywork/TinyMuduo/include
 
 CXX_FLAGS =  -g -std=c++11 -g -fPIC
 

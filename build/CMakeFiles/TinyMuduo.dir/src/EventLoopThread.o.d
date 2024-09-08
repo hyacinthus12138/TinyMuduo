@@ -1,8 +1,8 @@
 CMakeFiles/TinyMuduo.dir/src/EventLoopThread.o: \
- /home/mywork/TinyMuduo/src/EventLoopThread.cpp \
+ /home/mywork/mywork/TinyMuduo/src/EventLoopThread.cpp \
  /usr/include/stdc-predef.h \
- /home/mywork/TinyMuduo/include/EventLoopThread.h \
- /home/mywork/TinyMuduo/include/noncopyable.h \
+ /home/mywork/mywork/TinyMuduo/include/EventLoopThread.h \
+ /home/mywork/mywork/TinyMuduo/include/noncopyable.h \
  /usr/include/c++/11/functional \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -132,8 +132,8 @@ CMakeFiles/TinyMuduo.dir/src/EventLoopThread.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/mywork/TinyMuduo/include/Thread.h /usr/include/c++/11/memory \
- /usr/include/c++/11/bits/stl_uninitialized.h \
+ /home/mywork/mywork/TinyMuduo/include/Thread.h \
+ /usr/include/c++/11/memory /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
@@ -167,13 +167,13 @@ CMakeFiles/TinyMuduo.dir/src/EventLoopThread.o: \
  /usr/include/c++/11/stdexcept /usr/include/c++/11/bits/std_mutex.h \
  /usr/include/c++/11/bits/unique_lock.h \
  /usr/include/c++/11/condition_variable \
- /home/mywork/TinyMuduo/include/EventLoop.h /usr/include/c++/11/vector \
- /usr/include/c++/11/bits/stl_vector.h \
+ /home/mywork/mywork/TinyMuduo/include/EventLoop.h \
+ /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/mywork/TinyMuduo/include/Timestamp.h /usr/include/c++/11/iostream \
- /usr/include/c++/11/ostream /usr/include/c++/11/ios \
- /usr/include/c++/11/bits/ios_base.h \
+ /home/mywork/mywork/TinyMuduo/include/Timestamp.h \
+ /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
+ /usr/include/c++/11/ios /usr/include/c++/11/bits/ios_base.h \
  /usr/include/c++/11/bits/locale_classes.h \
  /usr/include/c++/11/bits/locale_classes.tcc \
  /usr/include/c++/11/streambuf /usr/include/c++/11/bits/streambuf.tcc \
@@ -187,7 +187,7 @@ CMakeFiles/TinyMuduo.dir/src/EventLoopThread.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/mywork/TinyMuduo/include/CurrentThread.h \
+ /home/mywork/mywork/TinyMuduo/include/CurrentThread.h \
  /usr/include/x86_64-linux-gnu/sys/syscall.h \
  /usr/include/x86_64-linux-gnu/asm/unistd.h \
  /usr/include/x86_64-linux-gnu/asm/unistd_64.h \

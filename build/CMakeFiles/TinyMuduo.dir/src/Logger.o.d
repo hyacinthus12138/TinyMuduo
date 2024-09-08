@@ -1,5 +1,5 @@
 CMakeFiles/TinyMuduo.dir/src/Logger.o: \
- /home/mywork/TinyMuduo/src/Logger.cpp /usr/include/stdc-predef.h \
+ /home/mywork/mywork/TinyMuduo/src/Logger.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -147,6 +147,6 @@ CMakeFiles/TinyMuduo.dir/src/Logger.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/mywork/TinyMuduo/include/Timestamp.h \
- /home/mywork/TinyMuduo/include/Logger.h \
- /home/mywork/TinyMuduo/include/noncopyable.h
+ /home/mywork/mywork/TinyMuduo/include/Timestamp.h \
+ /home/mywork/mywork/TinyMuduo/include/Logger.h \
+ /home/mywork/mywork/TinyMuduo/include/noncopyable.h

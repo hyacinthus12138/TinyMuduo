@@ -1,7 +1,8 @@
 CMakeFiles/TinyMuduo.dir/src/TcpServer.o: \
- /home/mywork/TinyMuduo/src/TcpServer.cpp /usr/include/stdc-predef.h \
- /home/mywork/TinyMuduo/include/TcpServer.h \
- /home/mywork/TinyMuduo/include/EventLoop.h \
+ /home/mywork/mywork/TinyMuduo/src/TcpServer.cpp \
+ /usr/include/stdc-predef.h \
+ /home/mywork/mywork/TinyMuduo/include/TcpServer.h \
+ /home/mywork/mywork/TinyMuduo/include/EventLoop.h \
  /usr/include/c++/11/functional \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -156,10 +157,10 @@ CMakeFiles/TinyMuduo.dir/src/TcpServer.o: \
  /usr/include/c++/11/bits/basic_string.tcc \
  /usr/include/c++/11/bits/std_mutex.h \
  /usr/include/c++/11/bits/unique_lock.h \
- /home/mywork/TinyMuduo/include/noncopyable.h \
- /home/mywork/TinyMuduo/include/Timestamp.h /usr/include/c++/11/iostream \
- /usr/include/c++/11/ostream /usr/include/c++/11/ios \
- /usr/include/c++/11/bits/ios_base.h \
+ /home/mywork/mywork/TinyMuduo/include/noncopyable.h \
+ /home/mywork/mywork/TinyMuduo/include/Timestamp.h \
+ /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
+ /usr/include/c++/11/ios /usr/include/c++/11/bits/ios_base.h \
  /usr/include/c++/11/bits/locale_classes.h \
  /usr/include/c++/11/bits/locale_classes.tcc \
  /usr/include/c++/11/streambuf /usr/include/c++/11/bits/streambuf.tcc \
@@ -173,8 +174,8 @@ CMakeFiles/TinyMuduo.dir/src/TcpServer.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/mywork/TinyMuduo/include/CurrentThread.h /usr/include/unistd.h \
- /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /home/mywork/mywork/TinyMuduo/include/CurrentThread.h \
+ /usr/include/unistd.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/confname.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
@@ -185,11 +186,11 @@ CMakeFiles/TinyMuduo.dir/src/TcpServer.o: \
  /usr/include/x86_64-linux-gnu/asm/unistd.h \
  /usr/include/x86_64-linux-gnu/asm/unistd_64.h \
  /usr/include/x86_64-linux-gnu/bits/syscall.h \
- /home/mywork/TinyMuduo/include/Acceptor.h \
- /home/mywork/TinyMuduo/include/Socket.h \
- /home/mywork/TinyMuduo/include/Channel.h \
- /home/mywork/TinyMuduo/include/InetAddress.h /usr/include/netinet/in.h \
- /usr/include/x86_64-linux-gnu/sys/socket.h \
+ /home/mywork/mywork/TinyMuduo/include/Acceptor.h \
+ /home/mywork/mywork/TinyMuduo/include/Socket.h \
+ /home/mywork/mywork/TinyMuduo/include/Channel.h \
+ /home/mywork/mywork/TinyMuduo/include/InetAddress.h \
+ /usr/include/netinet/in.h /usr/include/x86_64-linux-gnu/sys/socket.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
  /usr/include/x86_64-linux-gnu/bits/socket.h \
  /usr/include/x86_64-linux-gnu/bits/socket_type.h \
@@ -206,11 +207,11 @@ CMakeFiles/TinyMuduo.dir/src/TcpServer.o: \
  /usr/include/asm-generic/sockios.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
  /usr/include/x86_64-linux-gnu/bits/in.h /usr/include/arpa/inet.h \
- /home/mywork/TinyMuduo/include/EventLoopThreadPoll.h \
- /home/mywork/TinyMuduo/include/Callbacks.h \
- /home/mywork/TinyMuduo/include/TcpConnection.h \
- /home/mywork/TinyMuduo/include/Buffer.h /usr/include/c++/11/algorithm \
- /usr/include/c++/11/bits/stl_algo.h \
+ /home/mywork/mywork/TinyMuduo/include/EventLoopThreadPoll.h \
+ /home/mywork/mywork/TinyMuduo/include/Callbacks.h \
+ /home/mywork/mywork/TinyMuduo/include/TcpConnection.h \
+ /home/mywork/mywork/TinyMuduo/include/Buffer.h \
+ /usr/include/c++/11/algorithm /usr/include/c++/11/bits/stl_algo.h \
  /usr/include/c++/11/bits/algorithmfwd.h \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/uniform_int_dist.h \
@@ -219,4 +220,4 @@ CMakeFiles/TinyMuduo.dir/src/TcpServer.o: \
  /usr/include/c++/11/bits/enable_special_members.h \
  /usr/include/c++/11/bits/unordered_map.h \
  /usr/include/c++/11/bits/erase_if.h \
- /home/mywork/TinyMuduo/include/Logger.h /usr/include/strings.h
+ /home/mywork/mywork/TinyMuduo/include/Logger.h /usr/include/strings.h

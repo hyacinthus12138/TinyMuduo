@@ -1,7 +1,9 @@
 CMakeFiles/TinyMuduo.dir/src/InetAddress.o: \
- /home/mywork/TinyMuduo/src/InetAddress.cpp /usr/include/stdc-predef.h \
- /home/mywork/TinyMuduo/include/InetAddress.h /usr/include/netinet/in.h \
- /usr/include/features.h /usr/include/features-time64.h \
+ /home/mywork/mywork/TinyMuduo/src/InetAddress.cpp \
+ /usr/include/stdc-predef.h \
+ /home/mywork/mywork/TinyMuduo/include/InetAddress.h \
+ /usr/include/netinet/in.h /usr/include/features.h \
+ /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/timesize.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \

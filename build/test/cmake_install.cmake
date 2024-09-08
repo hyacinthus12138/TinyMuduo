@@ -1,4 +1,4 @@
-# Install script for directory: /home/mywork/TinyMuduo/test
+# Install script for directory: /home/mywork/mywork/TinyMuduo/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

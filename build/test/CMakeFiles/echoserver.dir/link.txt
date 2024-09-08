@@ -1,1 +1,1 @@
-/usr/bin/c++  -g -std=c++11 -g -rdynamic CMakeFiles/echoserver.dir/echoserver.o -o ../../bin/echoserver   -L/home/mywork/TinyMuduo/lib  -Wl,-rpath,/home/mywork/TinyMuduo/lib ../../lib/libTinyMuduo.so 
+/usr/bin/c++  -g -std=c++11 -g -rdynamic CMakeFiles/echoserver.dir/echoserver.o -o ../../bin/echoserver   -L/home/mywork/mywork/TinyMuduo/lib  -Wl,-rpath,/home/mywork/mywork/TinyMuduo/lib ../../lib/libTinyMuduo.so 

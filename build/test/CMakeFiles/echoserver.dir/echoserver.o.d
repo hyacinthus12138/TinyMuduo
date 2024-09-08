@@ -1,6 +1,6 @@
 test/CMakeFiles/echoserver.dir/echoserver.o: \
- /home/mywork/TinyMuduo/test/echoserver.cc /usr/include/stdc-predef.h \
- /usr/local/include/TinyMuduo/TcpServer.h \
+ /home/mywork/mywork/TinyMuduo/test/echoserver.cc \
+ /usr/include/stdc-predef.h /usr/local/include/TinyMuduo/TcpServer.h \
  /usr/local/include/TinyMuduo/EventLoop.h /usr/include/c++/11/functional \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

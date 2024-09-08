@@ -1,8 +1,8 @@
 CMakeFiles/TinyMuduo.dir/src/Thread.o: \
- /home/mywork/TinyMuduo/src/Thread.cpp /usr/include/stdc-predef.h \
- /home/mywork/TinyMuduo/include/Thread.h \
- /home/mywork/TinyMuduo/include/noncopyable.h /usr/include/c++/11/memory \
- /usr/include/c++/11/bits/stl_algobase.h \
+ /home/mywork/mywork/TinyMuduo/src/Thread.cpp /usr/include/stdc-predef.h \
+ /home/mywork/mywork/TinyMuduo/include/Thread.h \
+ /home/mywork/mywork/TinyMuduo/include/noncopyable.h \
+ /usr/include/c++/11/memory /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -157,7 +157,7 @@ CMakeFiles/TinyMuduo.dir/src/Thread.o: \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h /usr/include/c++/11/functional \
  /usr/include/c++/11/bits/std_function.h \
- /home/mywork/TinyMuduo/include/CurrentThread.h \
+ /home/mywork/mywork/TinyMuduo/include/CurrentThread.h \
  /usr/include/x86_64-linux-gnu/sys/syscall.h \
  /usr/include/x86_64-linux-gnu/asm/unistd.h \
  /usr/include/x86_64-linux-gnu/asm/unistd_64.h \

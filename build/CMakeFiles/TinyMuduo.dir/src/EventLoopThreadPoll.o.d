@@ -1,7 +1,7 @@
 CMakeFiles/TinyMuduo.dir/src/EventLoopThreadPoll.o: \
- /home/mywork/TinyMuduo/src/EventLoopThreadPoll.cpp \
+ /home/mywork/mywork/TinyMuduo/src/EventLoopThreadPoll.cpp \
  /usr/include/stdc-predef.h \
- /home/mywork/TinyMuduo/include/EventLoopThreadPoll.h \
+ /home/mywork/mywork/TinyMuduo/include/EventLoopThreadPoll.h \
  /usr/include/c++/11/functional \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -169,10 +169,10 @@ CMakeFiles/TinyMuduo.dir/src/EventLoopThreadPoll.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/mywork/TinyMuduo/include/noncopyable.h \
- /home/mywork/TinyMuduo/include/EventLoopThread.h \
- /home/mywork/TinyMuduo/include/Thread.h /usr/include/c++/11/thread \
- /usr/include/c++/11/bits/std_thread.h \
+ /home/mywork/mywork/TinyMuduo/include/noncopyable.h \
+ /home/mywork/mywork/TinyMuduo/include/EventLoopThread.h \
+ /home/mywork/mywork/TinyMuduo/include/Thread.h \
+ /usr/include/c++/11/thread /usr/include/c++/11/bits/std_thread.h \
  /usr/include/c++/11/bits/this_thread_sleep.h /usr/include/c++/11/chrono \
  /usr/include/c++/11/ratio /usr/include/c++/11/limits \
  /usr/include/c++/11/ctime /usr/include/c++/11/bits/parse_numbers.h \
